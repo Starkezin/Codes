@@ -1,0 +1,1 @@
+Essa pasta/repositório será usado para publicação de exercícios e de tarefas de programação.
